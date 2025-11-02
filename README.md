@@ -1,0 +1,2 @@
+# portfolio2-NC
+REFAZENDO O PORTFÓLIO
