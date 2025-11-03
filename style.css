@@ -8,6 +8,7 @@ header{
 }
 
 span{
+    margin: 10px 20px;
     background-color: oklab(46.951% 0.18822 -0.06721);
     color: lch(87.9% 87.57 98.36 / 0.911);
     padding: 10px;
