@@ -2,3 +2,7 @@ body{
 font-family: sans-serif;
 color: grey;
 }
+
+header{
+    text-align: center ;
+}
