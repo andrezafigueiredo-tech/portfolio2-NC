@@ -15,3 +15,12 @@ span{
     border: 5px solid rgb(13, 233, 5);
     border-radius: 10px;
 }
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  margin: 10px 0px;
+}
