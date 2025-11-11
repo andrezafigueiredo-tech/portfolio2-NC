@@ -1,6 +1,7 @@
 body{
 font-family: sans-serif;
 color: lab(18.37% 45.41 -45.25 / 0.842);
+padding 20px
 }
 
 header{
@@ -32,4 +33,24 @@ div{
   border: 5px solid #f9fd02;
   border-radius: 10px;
 
+}
+
+div{
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
+main{
+    margin-top: 10px;
+}
+
+section{
+     display: flex;
+     justify-content: center;
+}
+
+img{
+    width: 200px;
 }
